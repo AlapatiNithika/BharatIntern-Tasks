@@ -1,6 +1,6 @@
 # BharatIntern-Tasks
 
-These tasks were undertaken as a part of Bharat INtern Virtual Internship Program
+These tasks were undertaken as a part of Bharat Intern Virtual Internship Program
 
 
 Titanic Classification Task:
